@@ -1,5 +1,3 @@
-# Chat-Application
-
 ## **<h2 align="center">Chat Application</h2>**
 Web based Chat Application, using sockets to transfer messages instantly. Includes embedded custom rooms with user defined aliases.
 
