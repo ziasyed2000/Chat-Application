@@ -10,7 +10,7 @@ Snapchat was insanely popular due to it's nature of anonymous messaging. I have 
 * Creating a personal and safe messaging environment without storing a message history.
 
 # Installation
-Installation is simple, just download the repo, cd into the "ReactComputerVisionTemplate.main" directory, and run the following commands (in order) to get started:
+Installation is simple, just clone the repo, cd into the directory, and run the following commands (in order) to get started:
 ```
 npm i
 ```
