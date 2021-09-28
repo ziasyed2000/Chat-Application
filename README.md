@@ -1,7 +1,7 @@
 ## **<h2 align="center">Chat Application</h2>**
 
 # Project Description
-Snapchat was insanely popular due to it's nature of anonymous and private messaging. I have designed this app to replicate that feature but in chat messaging. User can define their personal name Alias and hop in a chat room of a programming language of their liking. Each room is alerted when a user joins or leaves with additional admin messages implemented. 
+Snapchat was insanely popular due to it's nature of anonymous messaging. I have designed this app to replicate that feature but in chat messaging. User can define their personal name Alias and hop in a chat room of a programming language of their liking. Each room is alerted when a user joins or leaves with additional admin messages implemented. 
 
 <img src="https://raw.githubusercontent.com/ziasyed2000/Chat-Application/main/Chat.gif" />
 
